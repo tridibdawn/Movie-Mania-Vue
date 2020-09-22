@@ -1,5 +1,5 @@
 <template>
-  <div class="about text-center">
+  <div class="about text-center mt-4">
     <h1 class="display-4">About Us</h1>
     <div class="aboutus-area">
       <div class="container">
