@@ -26,6 +26,10 @@
 
 - <a href="https://developers.themoviedb.org/3/movies/get-upcoming" target="_blank">Upcoming Movies</a>
 
+### Application Documentation Link
+
+- <a href="https://drive.google.com/drive/folders/1K3P-27XZ2b0MWUCylS35LQ34usyd-hhO?usp=sharing">Documentation Link</a>
+
 ## Project setup
 
 ```
